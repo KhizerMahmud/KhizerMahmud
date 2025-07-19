@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @KhizerMahmud
-- 👀 I’m interested in ... opportunities that allow me to display coding skills and stregthen my flaws
-- 🌱 I’m currently learning ... Bioinformatics at the Johns Hopkins University as a Graduate Student
-- 💞️ I’m looking to collaborate on ... Software development and Bioinformatic research projects
+👋 Hi, I'm Khizer
+I'm a software engineer with a background in bioinformatics and professional experience at Capital One. I specialize in backend development, infrastructure automation, and cloud-native solutions.
 
-<!---
-KhizerMahmud/KhizerMahmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At Capital One, I worked on fraud detection pipelines, ECS Fargate autoscaling, test automation (maturity level 4), and various AWS services like Lambda, Step Functions, EventBridge, and CloudWatch.
+
+I'm currently open to new opportunities where I can contribute to engineering teams focused on building reliable, scalable systems.
+
+🛠️ Tech Highlights
+Languages: Python, TypeScript, Bash
+
+Cloud & Infra: AWS (Lambda, ECS, EventBridge, S3, CloudWatch), CI/CD, Infrastructure-as-Code
+
+Testing & Quality: Pytest, ATDD, API mocking, test pipeline optimization
+
+Other: Snowflake, Splunk, GitHub Actions, Pydantic, FastAPI
+
+🌱 What I'm Up To Now
+Building personal projects to sharpen my AWS and backend chops
+
+Learning more about infrastructure observability and system design
+
+Looking for my next engineering challenge
