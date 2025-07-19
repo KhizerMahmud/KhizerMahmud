@@ -15,7 +15,7 @@ Testing & Quality: Pytest, ATDD, API mocking, test pipeline optimization
 Other: Snowflake, Splunk, GitHub Actions, Pydantic, FastAPI
 
 🌱 What I'm Up To Now
-Building personal projects to sharpen my AWS and backend chops
+Building personal projects to sharpen my AWS and backend skills
 
 Learning more about infrastructure observability and system design
 
