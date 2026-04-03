@@ -1,6 +1,6 @@
 👋 Hi, I'm Khizer
 
-I'm a software engineer with a background in bioinformatics and professional experience at Capital One. I specialize in backend development, infrastructure automation, and cloud-native solutions.
+I'm a software engineer with a background in biology and computer science and professional experience at Capital One. I specialize in backend development, infrastructure automation, and cloud-native solutions.
 
 At Capital One, I worked on fraud detection pipelines, a propriatary product for AWS Cloud cost-savings, test automation, and various AWS services like Lambda, Step Functions, EventBridge, and CloudWatch.
 
